@@ -25,7 +25,7 @@ Oraco Music é um aplicativo Flutter que permite aos usuários pesquisar música
 
 1. Clone este repositório:
 ```
-git clone https://github.com/seu-usuario/oraco-music.git
+git clone https://github.com/rodrigmeira/OracoChallenge.git
 ```
 2. Entre na pasta do projeto:
 ```
