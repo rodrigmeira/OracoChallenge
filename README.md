@@ -1,16 +1,41 @@
-# oracomusic
+# Oraco Music (Challenge)
 
-A new Flutter project.
+Oraco Music é um aplicativo Flutter que permite aos usuários pesquisar músicas e artistas utilizando a API do iTunes. Esse aplicativo foi desenvolvido como parte do desafio proposto pela Oraco.
 
-## Getting Started
+## Funcionalidades
 
-This project is a starting point for a Flutter application.
+- Pesquisar por artistas ou músicas
+- Visualizar resultados de pesquisa.
 
-A few resources to get you started if this is your first Flutter project:
+## Tecnologias Utilizadas
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Flutter
+- Dart
+- HTTP: ^0.13.6
+- Dio: ^5.1.2
+- Provider: ^6.0.0
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Dependências
+
+- http: ^0.13.6
+- dio: ^5.1.2
+- provider: ^6.0.0
+
+## Instalação
+
+1. Clone este repositório:
+```
+git clone https://github.com/seu-usuario/oraco-music.git
+```
+2. Entre na pasta do projeto:
+```
+cd oraco-music
+```
+3. Instale as dependências:
+```
+flutter pub get
+```
+4. Execute o aplicativo:
+```
+flutter run
+```
