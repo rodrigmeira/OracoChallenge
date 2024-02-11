@@ -29,7 +29,7 @@ git clone https://github.com/rodrigmeira/OracoChallenge.git
 ```
 2. Entre na pasta do projeto:
 ```
-cd oraco-music
+cd OracoChallenge
 ```
 3. Instale as dependências:
 ```
